@@ -22,3 +22,7 @@ The model used in this project is <a href="https://github.com/shivanidogra0301/M
 
 ### Flow 
 We will send post requests from React server to the flask server to get the data and show to the screen with help of react styling.
+
+# Results
+<img src="https://user-images.githubusercontent.com/43994912/89435777-f0816480-d762-11ea-96be-e22026814e3c.png"/>
+
