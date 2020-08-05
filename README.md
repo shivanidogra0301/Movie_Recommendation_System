@@ -26,3 +26,5 @@ We will send post requests from React server to the flask server to get the data
 # Results
 <img src="https://user-images.githubusercontent.com/43994912/89435777-f0816480-d762-11ea-96be-e22026814e3c.png"/>
 
+<img src ="https://user-images.githubusercontent.com/43994912/89435510-94b6db80-d762-11ea-9ec3-70733f1462d9.png"/>
+
