@@ -1,0 +1,40 @@
+.Navbar{
+    background-color:#b60002;
+    color: white;
+    height: 40px;
+    padding: 10px 10px;
+    border-bottom: 4px solid transparent;
+    top: 0;
+    left: 0;
+    list-style: none;
+    display: flex;
+    width: 100%;
+    margin-bottom: 30px;
+    
+}
+.Navbar img{
+    height: 35px;
+    margin: 0 20px;
+}
+
+.Navbar nav{
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+@media(max-width:500px){
+   .Navbar nav{
+       font-size: 25px;
+    }
+    .Navbar img{
+        height: 25px;
+    }
+}
+@media(max-width:360px){
+    .Navbar nav{
+        font-size: 20px;
+     }
+     .Navbar img{
+         height: 20px;
+     }
+ }
